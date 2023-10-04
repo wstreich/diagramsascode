@@ -1,7 +1,7 @@
 ---
 marp: true
 marpit: true
-theme: haskell
+theme: gaia
 paginate: true
 footer: 'MlFlow Notes'
 ---
